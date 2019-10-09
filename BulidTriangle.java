@@ -17,13 +17,13 @@ public class BulidTriangle {
         Scanner in = new Scanner(System.in);
 
         System.out.println("Let's see if we can bulid a triangle");
-        System.out.println("Give my a first side");
+        System.out.println("Give me a first side");
         System.out.println("a= ");
         a = in.nextDouble();
-        System.out.println("Give my a second side");
+        System.out.println("Give me a second side");
         System.out.println("b= ");
         b = in.nextDouble();
-        System.out.println("Give my a third side");
+        System.out.println("Give me a third side");
         System.out.println("c= ");
         c = in.nextDouble();
 
