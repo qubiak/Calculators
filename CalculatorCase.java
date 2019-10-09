@@ -15,7 +15,7 @@ public class CalculatorCase {
         char c;
 
         Scanner in = new Scanner(System.in);
-        System.out.println("Give my a: ");
+        System.out.println("Give me a: ");
         a = in.nextDouble();
         System.out.println("Give me b: ");
         b = in.nextDouble();
